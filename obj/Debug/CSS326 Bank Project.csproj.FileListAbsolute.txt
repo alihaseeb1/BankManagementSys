@@ -1,0 +1,55 @@
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\CSS326 Bank Project.exe.config
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\CSS326 Bank Project.exe
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\CSS326 Bank Project.pdb
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Memory.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\ZstdSharp.dll
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Memory.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326 Bank Project.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.AdminPage.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.ApproveLoan.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.BankAccount.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.CreateBankAccount.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.CreateAccount.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.CustomerInformation.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.Debt.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.Developer.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.LoginForm.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.LoanRequest.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.TransactionLog.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.Transfer.resources
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326 Bank Project.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326 Bank Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326 B.94F5F0B0.Up2Date
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326 Bank Project.exe
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326 Bank Project.pdb
+C:\Users\Administrator\source\repos\CSS326 Bank Project\obj\Debug\CSS326_Bank_Project.DeedItem.resources

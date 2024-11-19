@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\customerinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:customerinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\infodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:infodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\createbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:createbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\customerinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:customerinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|c:\\users\\administrator\\source\\repos\\css326 bank project\\approveloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:approveloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\createbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:createbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\approveloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:approveloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEB332E-E2C7-4B0E-99FE-06EED8C66DCD}|CSS326 Bank Project.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:18:53.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:14:09.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoanRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\LoanRequest.cs",
+              "RelativeDocumentMoniker": "LoanRequest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\LoanRequest.cs",
+              "RelativeToolTip": "LoanRequest.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:06:31.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Debt.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Debt.cs",
+              "RelativeDocumentMoniker": "Debt.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Debt.cs",
+              "RelativeToolTip": "Debt.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:05:05.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CustomerInformation.cs",
+              "RelativeDocumentMoniker": "CustomerInformation.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CustomerInformation.cs",
+              "RelativeToolTip": "CustomerInformation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAADIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:27:07.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionLog.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\TransactionLog.cs",
+              "RelativeDocumentMoniker": "TransactionLog.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\TransactionLog.cs",
+              "RelativeToolTip": "TransactionLog.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwFwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:19:51.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApproveLoan.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\ApproveLoan.cs",
+              "RelativeDocumentMoniker": "ApproveLoan.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\ApproveLoan.cs",
+              "RelativeToolTip": "ApproveLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:17:05.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\BankAccount.cs [Design]",
+              "RelativeToolTip": "BankAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:32:58.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Developer.cs",
+              "RelativeDocumentMoniker": "Developer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Developer.cs",
+              "RelativeToolTip": "Developer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:45:13.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminPage.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\AdminPage.cs",
+              "RelativeDocumentMoniker": "AdminPage.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\AdminPage.cs",
+              "RelativeToolTip": "AdminPage.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAMwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:25:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InfoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\InfoDAO.cs",
+              "RelativeDocumentMoniker": "InfoDAO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\InfoDAO.cs",
+              "RelativeToolTip": "InfoDAO.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAewGIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:48:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:02:06.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:23:18.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Transfer.cs",
+              "RelativeDocumentMoniker": "Transfer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Transfer.cs",
+              "RelativeToolTip": "Transfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:01:40.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CreateBankAccount.cs",
+              "RelativeDocumentMoniker": "CreateBankAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CreateBankAccount.cs",
+              "RelativeToolTip": "CreateBankAccount.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:35:18.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Info.cs",
+              "RelativeDocumentMoniker": "Info.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Info.cs",
+              "RelativeToolTip": "Info.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:36:10.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "CreateAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CreateAccount.cs",
+              "RelativeToolTip": "CreateAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:12:03.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transfer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Transfer.cs",
+              "RelativeDocumentMoniker": "Transfer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Transfer.cs [Design]",
+              "RelativeToolTip": "Transfer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:15:18.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerInformation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CustomerInformation.cs",
+              "RelativeDocumentMoniker": "CustomerInformation.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CustomerInformation.cs [Design]",
+              "RelativeToolTip": "CustomerInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:47:36.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionLog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\TransactionLog.cs",
+              "RelativeDocumentMoniker": "TransactionLog.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\TransactionLog.cs [Design]",
+              "RelativeToolTip": "TransactionLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:10:37.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\AdminPage.cs",
+              "RelativeDocumentMoniker": "AdminPage.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\AdminPage.cs [Design]",
+              "RelativeToolTip": "AdminPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:28:58.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Developer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Developer.cs",
+              "RelativeDocumentMoniker": "Developer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Developer.cs [Design]",
+              "RelativeToolTip": "Developer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:03:23.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApproveLoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\ApproveLoan.cs",
+              "RelativeDocumentMoniker": "ApproveLoan.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\ApproveLoan.cs [Design]",
+              "RelativeToolTip": "ApproveLoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:48:19.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoanRequest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\LoanRequest.cs",
+              "RelativeDocumentMoniker": "LoanRequest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\LoanRequest.cs [Design]",
+              "RelativeToolTip": "LoanRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:08:59.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateBankAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CreateBankAccount.cs",
+              "RelativeDocumentMoniker": "CreateBankAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CreateBankAccount.cs [Design]",
+              "RelativeToolTip": "CreateBankAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:26:56.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Debt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Debt.cs",
+              "RelativeDocumentMoniker": "Debt.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Debt.cs [Design]",
+              "RelativeToolTip": "Debt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:02:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:24:53.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "CreateAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CSS326 Bank Project\\CreateAccount.cs [Design]",
+              "RelativeToolTip": "CreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:08:08.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
